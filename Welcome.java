@@ -4,6 +4,6 @@ public class Welcome {
 	}
 	
 	public void sayWelcome(String name) {
-		System.out.println("Welcome " + name + "!");
+		System.out.println("Welcome dear " + name + "!");
 	}
 }
